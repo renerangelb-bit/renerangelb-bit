@@ -35,9 +35,10 @@
 
 ![René's GitHub stats](https://github-readme-stats.vercel.app/api?username=renerangelb-bit&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renerangelb-bit&layout=compact&theme=radical)
+
 ---
 
 ### 📫 Conectemos
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-René_Rangel-blue?style=flat&logo=linkedin)](TU_URL_DE_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-René_Rangel-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rené-angel-rangel-bernal-8b684a374/)
 [![Gmail](https://img.shields.io/badge/Email-renerangelb@gmail.com-red?style=flat&logo=gmail)](mailto:renerangelb@gmail.com)

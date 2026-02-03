@@ -33,11 +33,8 @@
 
 ### 📊 Mis Estadísticas de GitHub
 
-### 📊 Mis Estadísticas de GitHub
-
 ![René's GitHub stats](https://github-readme-stats.vercel.app/api?username=renerangelb-bit&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renerangelb-bit&layout=compact&theme=radical)
-
 ---
 
 ### 📫 Conectemos
